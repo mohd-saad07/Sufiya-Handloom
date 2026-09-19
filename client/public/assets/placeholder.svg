@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f7f3eb"/>
+  <rect x="50" y="50" width="300" height="300" rx="16" fill="#efe8db" stroke="#d4c5b3" stroke-width="2"/>
+  <path d="M140 220 L180 170 L210 200 L240 160 L270 220 Z" fill="#b09c85"/>
+  <circle cx="170" cy="140" r="16" fill="#d4ad88"/>
+  <text x="50%" y="270" dominant-baseline="middle" text-anchor="middle" fill="#5c4939" font-family="system-ui, sans-serif" font-size="16" font-weight="600">Sufia Handloom Product</text>
+  <text x="50%" y="295" dominant-baseline="middle" text-anchor="middle" fill="#8c7664" font-family="system-ui, sans-serif" font-size="12">Image Not Available</text>
+</svg>

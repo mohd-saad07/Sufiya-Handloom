@@ -1,0 +1,14 @@
+{
+  "name": "sufia-handloom-root",
+  "version": "1.0.0",
+  "description": "Root configuration for Sufia Handloom full-stack app",
+  "scripts": {
+    "install-all": "npm install && npm install --prefix client && npm install --prefix server",
+    "client": "npm run dev --prefix client",
+    "server": "npm start --prefix server",
+    "dev": "concurrently \"npm run client\" \"npm run server\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

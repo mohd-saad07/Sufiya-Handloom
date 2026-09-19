@@ -1,0 +1,148 @@
+[
+  {
+    "id": "prod_1789812731448",
+    "title": "hijab",
+    "description": "muslim ethenic wear hijab ",
+    "price": 149,
+    "imageUrl": "https://epjbkhncnzbcxuvhhqbm.supabase.co/storage/v1/object/public/product-images/img-1789812652715-495896467.png",
+    "featured": true,
+    "category": "Hijab",
+    "varieties": [
+      {
+        "name": "white",
+        "options": [
+          "s",
+          "m",
+          "xl"
+        ]
+      },
+      {
+        "name": "black",
+        "options": [
+          "s",
+          "m",
+          "xl"
+        ]
+      }
+    ],
+    "createdAt": 1789812731448
+  },
+  {
+    "id": "prod_1",
+    "title": "Premium Georgette Hijab",
+    "description": "Crafted from high-quality, non-slip georgette fabric. Breathable, lightweight, and perfect for daily or formal wear, offering a graceful drape.",
+    "price": 450,
+    "imageUrl": "https://images.unsplash.com/photo-1609357605129-26f69add5d6e?auto=format&fit=crop&w=800&q=80",
+    "featured": true,
+    "category": "Hijab",
+    "varieties": [
+      {
+        "name": "Color",
+        "options": [
+          "Champagne Cream",
+          "Soft Brown",
+          "Desert Sand",
+          "Mocha"
+        ]
+      }
+    ],
+    "createdAt": 1781537200000
+  },
+  {
+    "id": "prod_2",
+    "title": "Handwoven Chanderi Silk Dupatta",
+    "description": "An elegant handloom Chanderi silk dupatta with detailed gold zari borders and traditional motifs. Adds a touch of heritage to any ethnic outfit.",
+    "price": 1850,
+    "imageUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "featured": true,
+    "category": "Dupatta",
+    "varieties": [
+      {
+        "name": "Border Finish",
+        "options": [
+          "Antique Gold Zari",
+          "Rose Gold Zari"
+        ]
+      }
+    ],
+    "createdAt": 1781537200001
+  },
+  {
+    "id": "prod_3",
+    "title": "Soft Modal Cotton Stole",
+    "description": "Woven with natural modal-cotton fibers, this stole feels luxurious against the skin. Super soft fringed ends and a versatile textured design.",
+    "price": 600,
+    "imageUrl": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?auto=format&fit=crop&w=800&q=80",
+    "featured": true,
+    "category": "Stole",
+    "varieties": [
+      {
+        "name": "Color",
+        "options": [
+          "Cocoa Brown",
+          "Creamy Off-White",
+          "Caramel"
+        ]
+      }
+    ],
+    "createdAt": 1781537200002
+  },
+  {
+    "id": "prod_4",
+    "title": "Elegant Embroidered Linen Abaya",
+    "description": "A premium linen abaya dress featuring delicate tone-on-tone embroidery along the sleeves and hem. Features an open front with optional sash.",
+    "price": 3499,
+    "imageUrl": "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?auto=format&fit=crop&w=800&q=80",
+    "featured": true,
+    "category": "Ethnic Wear",
+    "varieties": [
+      {
+        "name": "Size",
+        "options": [
+          "S - 52",
+          "M - 54",
+          "L - 56",
+          "XL - 58"
+        ]
+      },
+      {
+        "name": "Color",
+        "options": [
+          "Deep Taupe",
+          "Warm Khaki",
+          "Oatmeal"
+        ]
+      }
+    ],
+    "createdAt": 1781537200003
+  },
+  {
+    "id": "prod_1787381416728",
+    "title": "stole",
+    "description": "elegent and beautiful stole.",
+    "price": 250,
+    "imageUrl": "/uploads/img-1787381406847-829326071.png",
+    "featured": true,
+    "category": "Stole",
+    "varieties": [],
+    "createdAt": 1787381416728
+  },
+  {
+    "id": "prod_1787382081207",
+    "title": "MUSLIM WEAR HIJAB",
+    "description": "Women can use it while praying salah and also wear it for the fashion and combine it with naqab as well.",
+    "price": 349,
+    "imageUrl": "/uploads/img-1787381974040-983168380.png",
+    "featured": true,
+    "category": "Hijab",
+    "varieties": [
+      {
+        "name": "black with golden design",
+        "options": [
+          "18-24 years gilrs"
+        ]
+      }
+    ],
+    "createdAt": 1787382081207
+  }
+]
